@@ -21,7 +21,7 @@ defmodule Kata do
   def custom_reverse(<<head :: binary-size(1)>> <> tail, new_string) do
     custom_reverse(tail, head <> new_string)
   end
-  def custom_reverse(string=[head | tail], new_string) do
+  def custom_reverse([head | tail], new_string) do
     custom_reverse(tail, [head | new_string])
   end
 end
