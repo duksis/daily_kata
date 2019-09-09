@@ -10,6 +10,13 @@ One Kata a day keeps all the bugs away!
 * Remove duplicate words
 
 
+## Resources
+
+* [codewars](https://www.codewars.com) - platform for coding challenges
+* [CodeKata](http://codekata.com) - blog by PragDave (probably the source of the code kata as a concept)
+* [Coding Dojo KataCatalogue](http://codingdojo.org/KataCatalogue)
+
+
 ## Usage
 
 * Adding a new solution
